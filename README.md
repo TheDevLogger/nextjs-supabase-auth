@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Next.js + Supabase Auth Example
 
-## Getting Started
+[Video Tutorial](https://youtu.be/WWwDL9G9xkU)
 
 First, run the development server:
 
